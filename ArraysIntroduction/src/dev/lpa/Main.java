@@ -61,4 +61,5 @@ public class Main {
  * For primitive types, default is zero for int, double, short
  * For booleans, it is false
  * For any class, it is null
+ * If a specific index cant be found it causes ArrayIndexOutOfBoundException
  */
